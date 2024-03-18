@@ -1,5 +1,4 @@
 {
-  "plugins": ["prettier-plugin-packagejson"],
   "arrowParens": "always",
   "bracketSameLine": false,
   "bracketSpacing": true,
@@ -16,6 +15,6 @@
   "singleAttributePerLine": false,
   "singleQuote": true,
   "tabWidth": 2,
-  "trailingComma": "all",
-  "useTabs": false
+  "trailingComma": "none",
+  "useTabs": true
 }
